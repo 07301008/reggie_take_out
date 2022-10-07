@@ -61,6 +61,7 @@ D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\service\impl\DishSer
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\controller\ShoppingCartController.java
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\dto\OrdersDto.java
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\service\impl\AddressBookServiceImpl.java
+D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\config\RedisConfig.java
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\service\OrderDetailService.java
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\config\MyBatisPlusConfig.java
 D:\code\java\reggie_take_out\src\main\java\com\itlxl\reggie\entity\OrderDetail.java

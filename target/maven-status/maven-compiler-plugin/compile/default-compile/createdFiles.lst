@@ -1,5 +1,6 @@
 com\itlxl\reggie\service\impl\DishFlavorServiceImpl.class
 com\itlxl\reggie\service\impl\SetmealDishServiceImpl.class
+com\itlxl\reggie\config\RedisConfig.class
 com\itlxl\reggie\service\impl\AddressBookServiceImpl.class
 com\itlxl\reggie\service\impl\OrdersServiceImpl.class
 com\itlxl\reggie\controller\SetmealController.class

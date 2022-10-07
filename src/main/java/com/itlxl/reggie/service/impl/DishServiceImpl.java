@@ -71,7 +71,7 @@ public class DishServiceImpl extends ServiceImpl<DishMapper, Dish> implements Di
 
 
     /**
-     * 修菜品，同时保存对应的口味数据
+     * 修改菜品，同时保存对应的口味数据
      * @param dishDto
      */
     @Override
