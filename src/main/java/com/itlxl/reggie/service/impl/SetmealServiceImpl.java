@@ -116,6 +116,7 @@ public class SetmealServiceImpl extends ServiceImpl<SetmealMapper, Setmeal> impl
      * @param setmealDto
      */
     @Override
+    @Transactional
     public void updateWithDish(SetmealDto setmealDto) {
         this.updateById(setmealDto);
         // 删除原来的套餐菜品信息
