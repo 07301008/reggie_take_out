@@ -15,4 +15,10 @@ public interface SetmealService extends IService<Setmeal> {
 
     // 更改套餐状态
     void status(int status, List<Long> ids);
+
+    // 根据id查询套餐信息
+    SetmealDto getByIdWithDish(Long id);
+
+    // 修改套餐信息
+    void updateWithDish(SetmealDto setmealDto);
 }
